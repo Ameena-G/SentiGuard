@@ -141,7 +141,7 @@ sentiguard/
 │
 └── README.md
 ```
-### Demo video link : [https://lnkd.in/g4HE_QBt](url)
+### Demo video link : [https://drive.google.com/file/d/1fq0be8_SYFDNWUapwsToKsjo7bIz2P_q/view?usp=drive_link](url)
 
 ### License:
 
